@@ -2,7 +2,7 @@
 Questo programma è stato creato da Mezzina Pasquale Massimo in collaborazione con Accademia del Levante (Bari)
 Il software è in grado di effettuare il calcolo del subnetting inserendo l'indirizzo di rete di partenza, il numero di reti e la dimensione delle sottoreti. 
 Per poter eseguire lo script è necessario installare i seguenti moduli:
- -tkinter(GUI) 
+ - tkinter(GUI) 
  - Pillow(Immagini)
 
 Per l'installazione dei modui citati in precedenza usare il CMD con i seguenti comandi:
